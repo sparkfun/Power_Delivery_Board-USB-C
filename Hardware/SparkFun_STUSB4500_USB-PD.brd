@@ -1802,12 +1802,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-1.35" y="1.7"/>
 <vertex x="-1.35" y="2.1"/>
 </polygon>
-<polygon width="0.01" layer="31">
-<vertex x="-1" y="1"/>
-<vertex x="1" y="1"/>
-<vertex x="1" y="-1"/>
-<vertex x="-1" y="-1"/>
-</polygon>
 <wire x1="-2.4" y1="2.4" x2="2.4" y2="2.4" width="0.127" layer="21"/>
 <wire x1="2.4" y1="2.4" x2="2.4" y2="-2.4" width="0.127" layer="21"/>
 <wire x1="2.4" y1="-2.4" x2="-2.4" y2="-2.4" width="0.127" layer="21"/>
@@ -1818,6 +1812,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-2.3" y="2.55" curve="-90"/>
 <vertex x="-2.55" y="2.3" curve="-90"/>
 </polygon>
+<rectangle x1="-0.953" y1="0.254" x2="-0.203" y2="1.004" layer="31"/>
+<rectangle x1="0.203" y1="0.254" x2="0.953" y2="1.004" layer="31"/>
+<rectangle x1="0.203" y1="-1.004" x2="0.953" y2="-0.254" layer="31"/>
+<rectangle x1="-0.953" y1="-1.004" x2="-0.203" y2="-0.254" layer="31"/>
 </package>
 </packages>
 </library>
