@@ -14,7 +14,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide)** - Basic hookup guide for the Power Delivery Board - USB-C.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 
 License Information
