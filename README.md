@@ -15,6 +15,7 @@ Repository Contents
 Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/power-delivery-board---usb-c-qwiic-hookup-guide)** - Basic hookup guide for the Power Delivery Board - USB-C.
+* **[Arduino Library](https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library)** - Arduino Library for use with the Power Delivery Board.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 
 License Information
